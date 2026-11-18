@@ -19,7 +19,7 @@
 | | |
 |---|---|
 | **122,000+** | users |
-| **350+** | Discord servers |
+| **360+** | Discord servers |
 | **50+** | coins and tokens |
 | **25** | blockchain networks |
 | **0%** | fees on tips and drops |
